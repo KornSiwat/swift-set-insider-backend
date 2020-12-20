@@ -1,6 +1,6 @@
 # Swift SET Insider Backend
 
-Data Aquisition and Integration Final Project
+Data Acquisition and Integration Final Project
 
 ## Members
 
